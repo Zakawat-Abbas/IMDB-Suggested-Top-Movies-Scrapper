@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import re
 import random
+import csv
 
 #Python class for declaring movie attribtues.
 class ExtractMovies(object):
